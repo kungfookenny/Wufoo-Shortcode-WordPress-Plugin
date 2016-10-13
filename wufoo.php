@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Wufoo Shortcode Plugin
-Description: Enables shortcode to embed Wufoo forms. Usage: <code>[wufoo username="chriscoyier" formhash="x7w3w3" autoresize="true" height="458" header="show" ssl="true"]</code>. This code is available to copy and paste directly from the Wufoo Code Manager.
-Version: 1.42
+Plugin Name: Wufoo Shortcode Plugin [safe]
+Description: Enables shortcode to embed Wufoo forms. Usage: <code>[wufoo username="chriscoyier" formhash="x7w3w3" autoresize="true" height="458" header="show" ssl="true"]</code>. This code is available to copy and paste directly from the Wufoo Code Manager. Update from (https://github.com/kungfookenny/Wufoo-Shortcode-WordPress-Plugin/tree/feature/safe)
+Version: 1.5
 License: GPL
-Author: Chris Coyier / Wufoo
+Author: Chris Coyier / Darin Kotter / Wufoo
 Author URI: http://wufoo.com
 */
 

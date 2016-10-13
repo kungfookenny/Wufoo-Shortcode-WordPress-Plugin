@@ -1,19 +1,27 @@
 === Plugin Name ===
 
-Contributors: Chris Coyier
-Plugin Name: Wufoo Shortcode
+Contributors: Chris Coyier / Darin Kotter
+Plugin Name: Wufoo Shortcode Plugin [safe]
 Plugin URI: http://wufoo.com
 Tags: wufoo, form, shortcode
 Author URI: http://wufoo.com
 Author: Chris Coyier
 Requires at least: 2.6
-Tested up to: 3.3.1
-Stable tag: 1.42
-Version: 1.42
+Tested up to: 4.6.1
+Stable tag: 1.5
+Version: 1.5
+
+****
+
+Original plugin (https://wordpress.org/plugins/wufoo-shortcode) no longer being maintained though some updates are available at https://github.com/chriscoyier/Wufoo-Shortcode-WordPress-Plugin
+
+Update `Wufoo Shortcode Plugin [safe]` from (https://github.com/kungfookenny/Wufoo-Shortcode-WordPress-Plugin/tree/feature/safe)
+
+****
 
 Allows the use of a special short code [wufoo] for embedding Wufoo forms.
 
-== Description ==
+== Description == 
 
 Allows the use of a special short code [wufoo] for embedding Wufoo forms. It's best to grab the shortcode from the Wufoo Code Manager.
 
@@ -47,6 +55,8 @@ For old school manual installation people: copy the folder "wufoo_shortcode" int
 1.41 - Bugfix: stop hardcoding subdomain
 
 1.42 - Improvements to plugin
+
+1.5 - Plugin re-name and version bump
 
 == Frequently Asked Questions ==
 
